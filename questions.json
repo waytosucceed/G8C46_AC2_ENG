@@ -1,0 +1,242 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which of the following statements serves as a counterclaim to the argument \"Technology in the classroom enhances learning outcomes by providing access to diverse educational resources\"?",
+      "options": [
+          "Technology in the classroom is beneficial because it helps students develop digital literacy skills.",
+          "Many educators agree that technology should be used more frequently in teaching.",
+          "Some experts believe that technology in the classroom can be a distraction, leading to reduced student focus.",
+          "Technology allows students to access information more quickly than traditional methods."
+      ],
+      "correct": 2,
+      "explanation": "Option C presents a counterclaim because it introduces an opposing viewpoint that challenges the main argument."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Which of the following statements serves as a counterclaim to the argument \"Social media helps connect people across the globe, fostering global understanding and friendships\"?",
+      "options": [
+          " Social media allows users to share cultural experiences with a global audience.",
+          " Many users report that social media helps them keep in touch with friends and family abroad.",
+          " Some studies suggest that social media use can contribute to feelings of loneliness and social isolation.",
+          " Social media enables individuals to learn about other cultures more easily."
+      ],
+      "correct": 2,
+      "explanation": "Option C presents a counterclaim that challenges the argument."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Which of the following statements serves as a counterclaim to the argument \"Electric cars are environmentally friendly because they produce zero tailpipe emissions\"?",
+      "options": [
+          " Electric cars reduce greenhouse gas emissions compared to gasoline cars.",
+          " Some researchers argue that electric car batteries require mining of rare metals, which causes significant environmental damage.",
+          " Governments around the world are offering incentives to promote electric vehicle adoption.",
+          " Electric cars are becoming increasingly popular as an alternative to traditional vehicles."
+      ],
+      "correct": 1,
+      "explanation": "Option B presents a counterclaim by introducing an argument that challenges the claim."
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Which of the following statements serves as a counterclaim to the argument \"Genetically modified foods can help solve world hunger by increasing crop yields\"?",
+      "options": [
+          " Genetically modified crops are engineered to be resistant to pests, reducing the need for chemical pesticides.",
+          " Many scientists believe that genetically modified foods are essential for sustainable agriculture.",
+          " Some critics argue that genetically modified foods could pose health risks that have not been fully studied.",
+          " Farmers using genetically modified crops report higher harvests than those using traditional seeds."
+      ],
+      "correct": 2,
+      "explanation": "Option C serves as a counterclaim that challenges the main argument."
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Which of the following statements serves as a counterclaim to the argument \"Standardised testing accurately measures student achievement and academic progress\"?",
+      "options": [
+          " Some educators suggest that standardised testing helps identify areas where students need additional support.",
+          " Many students find standardised testing to be a helpful tool in preparing for college admission exams.",
+          " Critics argue that standardised tests do not account for different learning styles and can disadvantage certain groups of students.",
+          " Standardised testing is often used as a benchmark for school funding decisions."
+      ],
+      "correct": 2,
+      "explanation": "Option C introduces an opposing perspective that challenges the claim."
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Which signal word or phrase is most commonly used to introduce a counterclaim?",
+      "options": [
+          " Similarly",
+          " Therefore",
+          " Conversely",
+          " Furthermore"
+      ],
+      "correct": 2,
+      "explanation": "Option C is used to introduce a contrasting viewpoint."
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Which signal word or phrase is often used to introduce a counterclaim?",
+      "options": [
+          " Additionally",
+          " On the other hand",
+          " As a result",
+          " For instance"
+      ],
+      "correct": 1,
+      "explanation": "Option B introduces a contrasting viewpoint."
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which phrase would best signal a counterclaim?",
+      "options": [
+          " In addition to",
+          " While it is true that",
+          " Thus",
+          " To illustrate"
+      ],
+      "correct": 1,
+      "explanation": "Option B acknowledges the original claim before presenting a contrasting viewpoint."
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Which word is commonly used to signal a counterclaim?",
+      "options": [
+          " However",
+          " Moreover",
+          " Consequently",
+          " Similarly"
+      ],
+      "correct": 0,
+      "explanation": "Option A signals a contrast or opposing viewpoint."
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Which phrase is most likely to introduce a counterclaim?",
+      "options": [
+          " Despite this",
+          " For this reason",
+          " In the same way",
+          " Likewise"
+      ],
+      "correct": 0,
+      "explanation": "Option A signals a contrasting viewpoint."
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "What is the primary purpose of including a counterclaim in an argumentative essay?",
+      "options": [
+          " To confuse the audience by presenting conflicting ideas.",
+          " To show the writer's lack of confidence in their own argument.",
+          " To acknowledge different perspectives and strengthen the original argument.",
+          " To avoid taking a clear stance on the issue."
+      ],
+      "correct": 2,
+      "explanation": "Including a counterclaim allows the writer to address potential objections."
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Why is it important to refute a counterclaim in an argumentative essay?",
+      "options": [
+          " To distract the reader from the original argument.",
+          " To show that the writer understands and can disprove opposing views.",
+          " To avoid discussing complex issues related to the argument.",
+          " To confuse the reader with multiple points of view."
+      ],
+      "correct": 1,
+      "explanation": "Refuting a counterclaim demonstrates the writer's ability to acknowledge and critically evaluate opposing arguments."
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "What does including a counterclaim in an essay demonstrate about the writer?",
+      "options": [
+          " It shows the writer's indecision about their own stance.",
+          " It demonstrates the writer's awareness of multiple perspectives on the issue.",
+          " It indicates that the writer lacks strong evidence for their argument.",
+          " It reveals that the writer is trying to avoid taking a clear position."
+      ],
+      "correct": 1,
+      "explanation": "Including a counterclaim shows that the writer has considered different perspectives."
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "How can addressing a counterclaim strengthen an argumentative essay?",
+      "options": [
+          " By making the argument more confusing for the reader.",
+          " By ignoring potential objections to the main argument.",
+          " By refuting opposing views and reinforcing the original claim.",
+          " By presenting multiple viewpoints without a clear preference."
+      ],
+      "correct": 2,
+      "explanation": "Addressing and refuting a counterclaim helps strengthen the original argument."
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Which of the following is a benefit of including a counterclaim in an argumentative essay?",
+      "options": [
+          " It helps to show that the writer's stance is open to change.",
+          " It provides an opportunity to present alternative evidence against the writer's main claim.",
+          " It allows the writer to show the weaknesses in opposing arguments.",
+          " It indicates that the writer has not researched the topic thoroughly."
+      ],
+      "correct": 2,
+      "explanation": "By including a counterclaim, the writer can directly address and highlight weaknesses in opposing arguments."
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Which counterclaim best opposes the following claim? \"Implementing a four-day workweek improves employee productivity and well-being.\"",
+      "options": [
+          " A four-day workweek allows employees more time to relax and recharge.",
+          " Some studies show that a four-day workweek could result in longer work hours on the remaining days, leading to burnout.",
+          " Countries that have adopted a four-day workweek report higher levels of job satisfaction.",
+          " Implementing a four-day workweek is seen by some as a modern approach to work-life balance."
+      ],
+      "correct": 1,
+      "explanation": "Option B directly opposes the main claim by suggesting a negative effect—burnout."
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "Which counterclaim best opposes the following claim? \"Remote learning is more efficient than traditional classroom-based education.\"",
+      "options": [
+          " Remote learning allows for flexible scheduling and pacing.",
+          " Some studies suggest that face-to-face interaction in a classroom setting is crucial for effective learning.",
+          " Many students report higher satisfaction with remote learning due to convenience.",
+          " Remote learning has been adopted by several top universities."
+      ],
+      "correct": 1,
+      "explanation": "Option B serves as a counterclaim that challenges the claim about the efficiency of remote learning."
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Which counterclaim best opposes the following claim? \"Electric cars are the most sustainable form of personal transportation.\"",
+      "options": [
+          " Electric cars do not produce emissions during operation.",
+          " Some experts argue that the environmental impact of battery production offsets the benefits of zero emissions.",
+          " Governments are providing subsidies to make electric cars more affordable.",
+          " Electric vehicles are becoming increasingly popular worldwide."
+      ],
+      "correct": 1,
+      "explanation": "Option B introduces a counterclaim by challenging the sustainability of electric cars."
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Which counterclaim best opposes the following claim? \"School uniforms promote equality among students.\"",
+      "options": [
+          " School uniforms eliminate competition over clothing brands.",
+          " Some students feel that uniforms suppress individual expression and creativity.",
+          " Many schools have adopted uniforms to create a more professional atmosphere.",
+          " Uniforms can reduce bullying based on appearance."
+      ],
+      "correct": 1,
+      "explanation": "Option B acts as a counterclaim by suggesting a negative consequence of school uniforms."
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Which counterclaim best opposes the following claim? \"A vegetarian diet is the best way to maintain a healthy lifestyle.\"",
+      "options": [
+          " A vegetarian diet can provide all necessary nutrients if well-planned.",
+          " Some nutritionists warn that a vegetarian diet may lack essential nutrients, like iron and omega-3 fatty acids.",
+          " Many people switch to a vegetarian diet for health and ethical reasons.",
+          " Plant-based diets are known to lower cholesterol levels."
+      ],
+      "correct": 1,
+      "explanation": "Option B presents a counterclaim by pointing out potential nutritional deficiencies."
+  }
+]
